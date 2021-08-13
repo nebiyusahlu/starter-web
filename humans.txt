@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Nebiyu Sahlu nebiyu.a.sahlu@gmail.com 
 
 # THANKS
 
