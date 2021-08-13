@@ -20,6 +20,8 @@ This web project deployment can be on any web server or local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull request for review.
+
 ### Copyright
 
 NebiyuSahlu
