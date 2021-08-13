@@ -19,3 +19,7 @@ simple example for Git training.
 This web project deployment can be on any web server or local file system.
 
 ## How To Contribute
+
+### Copyright
+
+NebiyuSahlu
